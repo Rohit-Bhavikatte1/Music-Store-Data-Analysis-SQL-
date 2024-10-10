@@ -1,5 +1,5 @@
 # Music-Store-Data-Analysis-SQL-
-[](https://github.com/Rohit-Bhavikatte1/Music-Store-Data-Analysis-SQL-/blob/main/images.jpg)
+![Logo](https://github.com/Rohit-Bhavikatte1/Music-Store-Data-Analysis-SQL-/blob/main/Music%20Store.jpg)
 
 ## Overview
 
